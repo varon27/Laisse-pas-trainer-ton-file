@@ -1,0 +1,61 @@
+
+.header-underline {
+    border-bottom: solid 5px #d72760;
+}
+
+.img-border {
+    border-color: #d72760;
+    border-style: dashed;
+}
+
+.header-banner.jumbotron {
+    background-image: url(http://www.lexcenter.com.br/site/wp-content/themes/dt-nimble/images/backgrounds/header/art-header-main/full/r_atr-header-main.jpg);
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    font-family: calibri, cursive;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+form {
+    margin-top: 15px;
+}
+.thumbnail .img-box {
+    max-height: 500px;
+    overflow: visible;
+}
+
+.thumbnail .img-box img {
+    width: 100%;
+}
+
+.thumbnail {
+    height: 420px;
+    max-width: 320px;
+    margin: auto;
+    margin-bottom: 15px;
+}
+
+.titre_image {
+    font-family: Calibri, cursive;
+    text-transform: uppercase;
+    margin-top: 60px;
+}
+
+.item-actions {
+    text-align: right;
+    padding: 0 5px;
+}
+
+.btn.btn-delete {
+    background-color: #f3492b;
+    color: white;
+    padding: 5px;
+    border-radius: 6px;
+}
+
+.btn.btn-delete:hover {
+    background-color: #981801;
+}
